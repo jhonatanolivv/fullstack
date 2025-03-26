@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# Dependências do Node.js
+node_modules/
+dist/
+.vite/
